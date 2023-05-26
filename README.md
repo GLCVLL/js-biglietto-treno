@@ -10,6 +10,7 @@ L'output del prezzo finale va messo fuori con massimo due decimali, per indicare
 /* MARKDOW */
 
 0. Recupero elemento dal DOM
+0. costo biglietto a km 0.21€
 1. Chiediamo quanti km percorrerà l'utente
 2. chiediamo l'età dell'utente
 3. calcolo il prezzo del biglietto in base ai km
